@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋, I'm Jonathan Marcantonio
 
-<!--
-**lennysgarage/lennysgarage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a third-year Computer Science student studying at the University of Toronto Mississauga!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+- Java
+- Python
+- C
+- JavaScript
+
+### What I'm doing these days
+- 🔭 I’m currently working on a personal website to showcase my past and soon to be projects.
+- 🌱 I’m currently learning web development using freeCodeCamp.
+
+Thanks for checking out my GitHub! Feel free to connect with me below.
+
+[![LinkedIn](https://img.icons8.com/fluent/24/000000/linkedin.png) LinkedIn][linkedin]
+
+
+[![Email](https://img.icons8.com/ios-filled/24/000000/email-open.png) jonathan.marcantonio@mail.utoronto.ca][email]
+
+[linkedin]: https://www.linkedin.com/in/jonathan-marcantonio/
+[email]: mailto:jonathan.marcantonio@mail.utoronto.ca
