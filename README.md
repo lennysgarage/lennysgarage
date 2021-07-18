@@ -19,7 +19,7 @@ Thanks for checking out my GitHub! Feel free to connect with me below.
 
 
 
-[![Email](https://img.icons8.com/ios/24/000000/email-open.png) jonathan.marcantonio@mail.utoronto.ca][email]
+[![Email](https://img.icons8.com/ultraviolet/24/000000/email-open--v1.png) jonathan.marcantonio@mail.utoronto.ca][email]
 
 [linkedin]: https://www.linkedin.com/in/jonathan-marcantonio/
 [email]: mailto:jonathan.marcantonio@mail.utoronto.ca
