@@ -11,6 +11,7 @@ I'm currently a third-year Computer Science student studying at the University o
 
 ### What I'm doing these days
 - 🔭 I’m currently working on a personal website to showcase my past and soon to be projects.
+- 🎎 I'm also working on two discord bots to learn and improve my JavaScript skills
 - 🌱 I’m currently learning web development using freeCodeCamp.
 
 Thanks for checking out my GitHub! Feel free to connect with me below.
