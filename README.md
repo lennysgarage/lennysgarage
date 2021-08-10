@@ -21,6 +21,7 @@ I'm currently a third-year Computer Science student studying at the University o
 Thanks for checking out my GitHub! Feel free to connect with me below.
 
 [![LinkedIn](https://img.icons8.com/fluent/24/000000/linkedin.png) LinkedIn][linkedin]
+<br/>
 [![Email](https://img.icons8.com/ultraviolet/24/000000/email-open--v1.png) jonathan.marcantonio@mail.utoronto.ca][email]
 
 
