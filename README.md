@@ -10,8 +10,8 @@ I'm currently a third-year Computer Science student studying at the University o
 - JavaScript
 
 ### What I'm doing these days
-- 🔭 I’m currently working on a personal website to showcase my past and soon to be projects.
-- 🎎 I'm also working on two discord bots to learn and improve my JavaScript skills
+- 🔭 I’m currently working on a URL "extender" that "extends" a url using a random wikipedia article's contents.
+- 🎎 I'm also working on two Discord bots to learn and improve my JavaScript skills
 - 🌱 I’m currently learning web development using freeCodeCamp.
 
 ### My LeetCode Stats
