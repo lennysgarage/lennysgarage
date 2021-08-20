@@ -5,9 +5,9 @@ I'm currently a third-year Computer Science student studying at the University o
 
 ### Languages:
 - Java
+- JavaScript
 - Python
 - C
-- JavaScript
 
 ### What I'm doing these days
 - 🔭 I’m currently working on a URL "extender" that "extends" a url using a random wikipedia article's contents.
