@@ -10,9 +10,9 @@ I'm currently a third-year Computer Science student studying at the University o
 - C
 
 ### What I'm doing these days
-- 🔭 I’m currently working on a URL "extender" that "extends" a url using a random wikipedia article's contents.
-- 🎎 I'm also working on two Discord bots to learn and improve my JavaScript skills
-- 🌱 I’m currently learning web development using freeCodeCamp.
+- 🔭 I’m currently refining my wikipedia urlifer, [WikiLink](http://wikifylink.me/).
+- 🎎 I'm also working on a [Discord Bot](https://github.com/lennysgarage/DiscordMemories), that brings the functionality of Snapchat Memories to Discord
+- 🌱 I’m looking forward to working with Java/Kotlin to build an Android app.
 
 <!---
 ### My LeetCode Stats
