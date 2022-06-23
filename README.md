@@ -1,23 +1,21 @@
 ## Hi there 👋, I'm Jonathan Marcantonio
 
-I'm currently a third-year Computer Science student studying at the University of Toronto Mississauga!
+I'm currently a Software Engineering intern at [RedHat](https://github.com/RedHatOfficial), and a Computer Science student at the University of Toronto Mississauga!
 
 
 ### Languages:
-- Java
+- Go
 - JavaScript
+- Java
 - Python
 - C
 
 ### What I'm doing these days
-- 🔭 I’m currently refining my wikipedia urlifer, [WikiLink](http://wikifylink.me/).
-- 🎎 I'm also working on a [Discord Bot](https://github.com/lennysgarage/DiscordMemories), that brings the functionality of Snapchat Memories to Discord
-- 🌱 I’m looking forward to working with Java/Kotlin to build an Android app.
+- 🎎 I'm currently growing my [Discord Bot](https://github.com/lennysgarage/DiscordMemories), that brings the functionality of Snapchat Memories to Discord
+- 🌱 I'm also working on tools that make utilizing [Letterboxd](http://letterboxd.com/) easier with [Letterboxd-picker](https://github.com/lennysgarage/letterboxd-picker) & [Letterboxd-scraper](https://github.com/lennysgarage/letterboxd-scraper).
+- 🔭 I’m also working on refining my wikipedia urlifer, [WikiLink](http://wikifylink.me/).
 
-<!---
-### My LeetCode Stats
-[![Lennysgarage's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lennysgarage&theme=midnight)](https://leetcode.com/lennysgarage/)
--->
+
 
 Thanks for checking out my GitHub! Feel free to connect with me below.
 
