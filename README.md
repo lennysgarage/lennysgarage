@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jonathan Marcantonio
 
-I'm currently a Software Engineering intern at [RedHat](https://github.com/RedHatOfficial), and a Computer Science student at the University of Toronto Mississauga!
+I'm currently a Software Engineering intern at [Red Hat](https://github.com/RedHatOfficial), and a Computer Science student at the University of Toronto Mississauga!
 
 
 ### Languages:
@@ -13,17 +13,11 @@ I'm currently a Software Engineering intern at [RedHat](https://github.com/RedHa
 ### What I'm doing these days
 - 🎎 I'm currently growing my [Discord Bot](https://github.com/lennysgarage/DiscordMemories), that brings the functionality of Snapchat Memories to Discord
 - 🌱 I'm also working on tools that make utilizing [Letterboxd](http://letterboxd.com/) easier with [Letterboxd-picker](https://github.com/lennysgarage/letterboxd-picker) & [Letterboxd-scraper](https://github.com/lennysgarage/letterboxd-scraper).
-- 🔭 I’m also working on refining my wikipedia urlifer, [WikiLink](http://wikifylink.me/).
+- 🔭 As well I'm working on refining my wikipedia urlifer, [WikiLink](https://github.com/lennysgarage/WikiLink).
 
 
 
 Thanks for checking out my GitHub! Feel free to connect with me below.
 
-[![LinkedIn](https://img.icons8.com/fluent/24/000000/linkedin.png) LinkedIn][linkedin]
-<br/>
-[![Email](https://img.icons8.com/ultraviolet/24/000000/email-open--v1.png) jonathan.marcantonio@mail.utoronto.ca][email]
-
-
-
-[linkedin]: https://www.linkedin.com/in/jonathan-marcantonio/
-[email]: mailto:jonathan.marcantonio@mail.utoronto.ca
+<a target="_blank" href="https://www.linkedin.com/in/jonathan-marcantonio"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:jonathan.marcantonio@mail.utoronto.ca"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
