@@ -1,13 +1,12 @@
 ## Hi there 👋, I'm Jonathan Marcantonio
 
-I'm a fourth-year Computer Science student at the University of Toronto Mississauga!
-
+I'm a Computer Science graduate from the University of Toronto, currently working at Red Hat!
 
 ### Languages:
 - Go
+- Java
 - JavaScript
 - Python
-- Java
 - C
 
 <!-- ### What I'm doing these days
@@ -18,6 +17,6 @@ I'm a fourth-year Computer Science student at the University of Toronto Mississa
 Thanks for checking out my GitHub! Feel free to connect with me below.
 
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-marcantonio"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:jonathan.marcantonio@mail.utoronto.ca"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:lennysgarage1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
