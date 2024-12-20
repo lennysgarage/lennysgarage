@@ -1,6 +1,10 @@
 ## Hi there 👋, I'm Jonathan Marcantonio
 
-I'm a Computer Science graduate from the University of Toronto, currently working at Red Hat!
+I'm a Software Engineer at Red Hat with a Bachelor's in Computer Science from the University of Toronto!
+
+
+
+
 
 ### Languages:
 - Go
